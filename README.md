@@ -32,3 +32,6 @@ Troubleshooting Information
 4. You must make certain that you use one of the Solarized color schemes with the the ANSI colors or the default foreground and background colors will be incorrect.  In the SecureCRT ANSI colors dialog the normal foreground ANSI color is displayed/set on the far right of the top row of the Normal colors section.  The normal background ANSI color is displayed/set on the far left of the top row of the Normal colors section. Read the [knowledgebase article] (http://www.vandyke.com/support/tips/colorconfig.html "Overview of Color Configuration in SecureCRT") for more information on how color schemes work with ANSI Colors.
 5. Find the SecureCRT config path.<BR/> Open a command prompt and type reg query "hkcu\Software\VanDyke\SecureCRT" /v "Config Path"
 
+[View the Solarized SecureCRT Repository] (https://github.com/DrBob5188/Solarized)
+
+[View the main Solarized repository on github] (https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized)
